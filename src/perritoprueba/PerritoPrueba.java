@@ -15,6 +15,7 @@ public class PerritoPrueba {
      */
     public static void main(String[] args) {
         System.out.println("Hola a todos mis locos");
+        System.out.println("Esto es una prueba");
     }
     
 }
